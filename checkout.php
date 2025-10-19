@@ -51,7 +51,7 @@ if (mysqli_query($conn, $sql)) {
             data-description="Order Payment"
             data-prefill.name="Rose"
             data-prefill.email="rose@example.com"
-            data-prefill.contact="9999999999">
+            data-prefill.contact="6282392503">
         </script>
         <input type="hidden" name="order_id" value="<?= $order_id ?>">
     </form>
